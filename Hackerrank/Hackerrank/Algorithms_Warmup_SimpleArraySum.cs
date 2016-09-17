@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hackerrank
 {
-    class Algorithms_Warmup_SimpleArraySum
+    static class Algorithms_Warmup_SimpleArraySum
     {
         internal static int Sum(int[] array, int length)
         {

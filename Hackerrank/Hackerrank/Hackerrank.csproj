@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms_Warmup_AVeryBigSum.cs" />
     <Compile Include="Algorithms_Warmup_CompareTriplets.cs" />
+    <Compile Include="Algorithms_Warmup_DiagonalDifference.cs" />
     <Compile Include="Algorithms_Warmup_SimpleArraySum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

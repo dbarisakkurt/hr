@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hackerrank
 {
-    class Algorithms_Warmup_CompareTriplets
+    static class Algorithms_Warmup_CompareTriplets
     {
 
         internal static void CompareAndPrintResult(int[] alicePoints, int[] bobPoints)
