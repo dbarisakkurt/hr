@@ -47,6 +47,8 @@
     <Compile Include="Algorithms_Warmup_CircularArrayRotation.cs" />
     <Compile Include="Algorithms_Warmup_CompareTriplets.cs" />
     <Compile Include="Algorithms_Warmup_DiagonalDifference.cs" />
+    <Compile Include="Algorithms_Warmup_DivisibleSumPairs.cs" />
+    <Compile Include="Algorithms_Warmup_Kangoroo.cs" />
     <Compile Include="Algorithms_Warmup_PlusMinus.cs" />
     <Compile Include="Algorithms_Warmup_SimpleArraySum.cs" />
     <Compile Include="Algorithms_Warmup_Staircase.cs" />
