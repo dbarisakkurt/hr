@@ -54,12 +54,22 @@
     <Compile Include="Algorithms_Warmup_SimpleArraySum.cs" />
     <Compile Include="Algorithms_Warmup_Staircase.cs" />
     <Compile Include="Algorithms_Warmup_TimeConversion.cs" />
-    <Compile Include="CİrcularArray.cs" />
+    <Compile Include="CircularArray.cs" />
     <Compile Include="Day30Challenge_Day1.cs" />
+    <Compile Include="Day30Challenge_Day10.cs" />
+    <Compile Include="Day30Challenge_Day11.cs" />
+    <Compile Include="Day30Challenge_Day12.cs" />
+    <Compile Include="Day30Challenge_Day13.cs" />
+    <Compile Include="Day30Challenge_Day14.cs" />
+    <Compile Include="Day30Challenge_Day15.cs" />
     <Compile Include="Day30Challenge_Day2.cs" />
     <Compile Include="Day30Challenge_Day3.cs" />
     <Compile Include="Day30Challenge_Day4.cs" />
     <Compile Include="Day30Challenge_Day5.cs" />
+    <Compile Include="Day30Challenge_Day6.cs" />
+    <Compile Include="Day30Challenge_Day7.cs" />
+    <Compile Include="Day30Challenge_Day8.cs" />
+    <Compile Include="Day30Challenge_Day9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
